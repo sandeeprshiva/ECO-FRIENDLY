@@ -1,6 +1,6 @@
-# EcoFriend Backend API
+# EcoFriend Second hand marketplace
 
-A Node.js backend API for the EcoFriend application built with Express, Sequelize, and PostgreSQL.
+ the EcoFriend application built with Express, Sequelize, and PostgreSQL.
 
 ## Features
 
